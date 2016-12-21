@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Slight.NCrunch</id>
+    <version>1.0.0</version>
+    <authors>Silvenga</authors>
+    <owners>Silvenga</owners>
+    <licenseUrl>https://github.com/Silvenga/Slight.NCrunch/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Silvenga/Slight.NCrunch</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NCrunch AssignLinkMetadata Fix</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <developmentDependency>true</developmentDependency>
+  </metadata>
+  <files>
+    <file src="build\**\*" target="build\" />
+  </files>
+</package>
